@@ -1,0 +1,79 @@
+|INFO| Time taken to generate sets: 400
+|INFO| Time taken to sequentially add: 193
+|INFO| Time taken to pairwise merge: 25
+|INFO| Time taken to generate sets: 318
+|INFO| Time taken to sequentially add: 240
+|INFO| Time taken to pairwise merge: 26
+|INFO| Time taken to generate sets: 343
+|INFO| Time taken to sequentially add: 193
+|INFO| Time taken to pairwise merge: 26
+|INFO| Time taken to generate sets: 375
+|INFO| Time taken to sequentially add: 176
+|INFO| Time taken to pairwise merge: 35
+|INFO| Time taken to generate sets: 458
+|INFO| Time taken to sequentially add: 187
+|INFO| Time taken to pairwise merge: 40
+|INFO| Time taken to generate sets: 369
+|INFO| Time taken to sequentially add: 191
+|INFO| Time taken to pairwise merge: 47
+|INFO| Time taken to generate sets: 297
+|INFO| Time taken to sequentially add: 202
+|INFO| Time taken to pairwise merge: 30
+|INFO| Time taken to generate sets: 410
+|INFO| Time taken to sequentially add: 205
+|INFO| Time taken to pairwise merge: 41
+|INFO| Time taken to generate sets: 326
+|INFO| Time taken to sequentially add: 179
+|INFO| Time taken to pairwise merge: 28
+|INFO| Time taken to generate sets: 774
+|INFO| Time taken to sequentially add: 428
+|INFO| Time taken to pairwise merge: 256
+|INFO| Time taken to generate sets: 472
+|INFO| Generated 1 thousand sets
+|INFO| Generated 2 thousand sets
+|INFO| Generated 3 thousand sets
+|INFO| Generated 4 thousand sets
+|INFO| Generated 5 thousand sets
+|INFO| Generated 6 thousand sets
+|INFO| Generated 7 thousand sets
+|INFO| Generated 8 thousand sets
+|INFO| Generated 9 thousand sets
+|INFO| Time taken to generate sets: 729
+|INFO| Time taken to sequentially add: 806
+|INFO| Time taken to pairwise merge: 552
+|INFO| Generated 1 thousand sets
+|INFO| Generated 2 thousand sets
+|INFO| Generated 3 thousand sets
+|INFO| Generated 4 thousand sets
+|INFO| Generated 5 thousand sets
+|INFO| Generated 6 thousand sets
+|INFO| Generated 7 thousand sets
+|INFO| Generated 8 thousand sets
+|INFO| Generated 9 thousand sets
+|INFO| Generated 10 thousand sets
+|INFO| Time taken to generate sets: 115
+|INFO| Time taken to sequentially add: 31
+|INFO| Time taken to pairwise merge: 2
+|INFO| Generated 1 thousand sets
+|INFO| Generated 2 thousand sets
+|INFO| Generated 3 thousand sets
+|INFO| Generated 4 thousand sets
+|INFO| Generated 5 thousand sets
+|INFO| Generated 6 thousand sets
+|INFO| Generated 7 thousand sets
+|INFO| Generated 8 thousand sets
+|INFO| Generated 9 thousand sets
+|INFO| Generated 10 thousand sets
+|INFO| Generated 11 thousand sets
+|INFO| Generated 12 thousand sets
+|INFO| Generated 13 thousand sets
+|INFO| Generated 14 thousand sets
+|INFO| Generated 15 thousand sets
+|INFO| Generated 16 thousand sets
+|INFO| Generated 17 thousand sets
+|INFO| Generated 18 thousand sets
+|INFO| Generated 19 thousand sets
+|INFO| Generated 20 thousand sets
+|INFO| Time taken to generate sets: 897824
+|INFO| Time taken to sequentially add: 65669
+|INFO| Time taken to pairwise merge: 9378
